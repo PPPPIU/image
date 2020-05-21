@@ -1,1 +1,1 @@
-from  rancher/rke-tools:v0.1.42
+from  rancher/nginx-ingress-controller:0.21.0-rancher3
